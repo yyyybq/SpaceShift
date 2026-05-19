@@ -1,0 +1,4 @@
+ai2thor==4.0.0
+gradio>=4.0.0
+matplotlib>=3.7.0
+tqdm>=4.66.0
